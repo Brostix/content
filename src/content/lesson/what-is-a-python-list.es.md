@@ -120,7 +120,7 @@ Te permitirá eliminar la primera ocurrencia de un elemento por su nombre.
     #Si deseas eliminar 'Chris', necesitas hacer lo siguiente: 
     myList = ['Pedro','Chris','Juan','Maria']
     myNewArray.remove(2)
-    print(myList) # esto imprimirá ['Pedro','Chris','Juan'];
+    print(myList) # esto imprimirá ['Pedro','Chris','Maria'];
 ```
 
 ### Eliminando elementos de una lista con Delete
